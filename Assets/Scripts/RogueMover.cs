@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RogueMovementController : MonoBehaviour
+public class RogueMover : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
